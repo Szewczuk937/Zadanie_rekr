@@ -1,0 +1,17 @@
+F:\Progect\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+F:\Progect\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\Progect\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+F:\Progect\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+F:\Progect\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+F:\Progect\Library\bin\Debug\net6.0\Library.exe
+F:\Progect\Library\bin\Debug\net6.0\Library.deps.json
+F:\Progect\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+F:\Progect\Library\bin\Debug\net6.0\Library.dll
+F:\Progect\Library\bin\Debug\net6.0\Library.pdb
+F:\Progect\Library\bin\Debug\net6.0\M2Mqtt.Net.dll
+F:\Progect\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+F:\Progect\Library\obj\Debug\net6.0\Library.dll
+F:\Progect\Library\obj\Debug\net6.0\refint\Library.dll
+F:\Progect\Library\obj\Debug\net6.0\Library.pdb
+F:\Progect\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+F:\Progect\Library\obj\Debug\net6.0\ref\Library.dll

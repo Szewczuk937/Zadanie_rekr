@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfpyMsHIog969yJ3wX9BnoV1yjhmkCKQwnM3dQur+5CAeIIOhPooHgrUgGgynFWkWUMHvC7sQcCfdcY6ciTX+w==",
+  "success": true,
+  "projectFilePath": "F:\\Progect\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recs-\\.nuget\\packages\\plt.m2mqtt\\4.3.0.3\\plt.m2mqtt.4.3.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „Plt.M2Mqtt 4.3.0.3” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „net6.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "Plt.M2Mqtt",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
